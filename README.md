@@ -34,6 +34,6 @@
 ## 🔑 ទំនាក់ទំនងទិញអាជ្ញាប័ណ្ណ (Contact for License Key)
 
 ដើម្បីទទួលបានលេខកូដសកម្ម (**Activation Key**) តាមគម្រោងដែលលោកអ្នកពេញចិត្ត (១ ខែ, ៣ ខែ, ១ ឆ្នាំ, ៩៩ ឆ្នាំ)៖
-- 💬 **Telegram:** [@Krotreaksmey](https://t.me/Krotreaksmey)
+- 💬 **Telegram:** [@Krotreaksmey](https://t.me/rreekmeyy)
 - 📧 **Email:** [krotreaksmey2200@gmail.com](mailto:krotreaksmey2200@gmail.com)
 - 👨‍💻 **Developer:** Krot Reaksmey (@Krotreaksmey2200)
