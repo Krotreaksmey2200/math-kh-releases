@@ -5,7 +5,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/Krotreaksmey2200/math-kh-releases?color=107c41&label=Latest%20Release)](https://github.com/Krotreaksmey2200/math-kh-releases/releases/latest)
 [![macOS Support](https://img.shields.io/badge/macOS-11.0%2B%20(Apple%20Silicon%20%26%20Intel)-blue)](https://github.com/Krotreaksmey2200/math-kh-releases/releases/latest)
-[![License](https://img.shields.io/badge/License-Subscription%20%2F%20Commercial-amber)](https://t.me/Krotreaksmey)
+[![License](https://img.shields.io/badge/License-Subscription%20%2F%20Commercial-amber)](https://t.me/rreekmeyy)
 
 ---
 
@@ -34,6 +34,6 @@
 ## 🔑 ទំនាក់ទំនងទិញអាជ្ញាប័ណ្ណ (Contact for License Key)
 
 ដើម្បីទទួលបានលេខកូដសកម្ម (**Activation Key**) តាមគម្រោងដែលលោកអ្នកពេញចិត្ត (១ ខែ, ៣ ខែ, ១ ឆ្នាំ, ៩៩ ឆ្នាំ)៖
-- 💬 **Telegram:** [@Krotreaksmey](https://t.me/rreekmeyy)
+- 💬 **Telegram:** [@rreekmeyy](https://t.me/rreekmeyy)
 - 📧 **Email:** [krotreaksmey2200@gmail.com](mailto:krotreaksmey2200@gmail.com)
 - 👨‍💻 **Developer:** Krot Reaksmey (@Krotreaksmey2200)
